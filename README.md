@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate data scientist from kenya</h3>
+<h3 align="center">An AI graduate student at CMU-Africa</h3>
 
 - 🌱 I’m currently learning **Data science & machine learning**
 
-- 💬 Ask me about **python, web automation, scrapping, data wrangling**
+- 💬 Ask me about **Machine learning, Deep learning, Computer Vision, Speech**
 
 - 📫 How to reach me **briankipkirui03@gmail.com**
 
