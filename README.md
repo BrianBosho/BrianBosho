@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher | MSEAI Student at Carnegie Mellon University Africa</h3>
 
 - 🔬 I’m currently researching **AI, Computer Vision, and Machine Learning**  
-- 🔭 My focus areas include **Federated Learning, Graph Neural Networks (GNNs)**, and **Autonomous Systems**
+- 🔭 My focus areas include **Computer Vision, NLP, Biomedical Image Analysis, Federated Learning, Graph Neural Networks (GNNs)**, and **Autonomous Systems**
 - 💬 Ask me about **Deep Learning, AI for Healthcare, Intelligent Transport Systems**  
 - 👨‍🏫 I’m also a **Graduate Teaching Assistant** in **Machine Learning** at CMU-Africa
 - 🌍 Passionate about using **AI** to solve real-world challenges, especially in **developing regions**  
